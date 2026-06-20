@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Noche de sábanas vacías
+
+This log tracks the cryptographic history and versioning for the song **Noche de sábanas vacías** (noche-de-sabanas-vacias).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-20T08:44:37.935784 | `v1` | `69784bdcf666c4712e848622b5344fe3b39e6d50d897ede2b8b1c5f51214a8ee` | `89bbd675fbcfa822205c4da8734302c986a02f2ef453cb1b0cd7813c324e7fbf` | `2026-06-20_noche-de-sabanas-vacias-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

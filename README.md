@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/noche-de-sabanas-vacias/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Noche de sábanas vacías](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-de-sabanas-vacias/) |
+| **Get License** | [Music Rights & Licensing for Noche de sábanas vacías](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-de-sabanas-vacias/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `69784bdcf666c4712e848622b5344fe3b39e6d50d897ede2b8b1c5f51214a8ee` |
 | **Timestamp** | June 20, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
